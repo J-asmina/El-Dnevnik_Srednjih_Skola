@@ -1,0 +1,27 @@
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\bin\Debug\Elektronski dnevnik srednjih skola.exe.config
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\bin\Debug\Elektronski dnevnik srednjih skola.exe
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\bin\Debug\Elektronski dnevnik srednjih skola.pdb
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola.csproj.AssemblyReference.cache
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\MainWindow.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\ObrazovniProfil.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Ocena.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Predmet.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Radnik.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\SrednjaSkola.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Ucenik.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\App.g.cs
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola_MarkupCompile.cache
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola_MarkupCompile.lref
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\MainWindow.baml
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\ObrazovniProfil.baml
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Ocena.baml
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Predmet.baml
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Radnik.baml
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\SrednjaSkola.baml
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Ucenik.baml
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola.g.resources
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski_dnevnik_srednjih_skola.Properties.Resources.resources
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola.csproj.GenerateResource.cache
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola.csproj.CoreCompileInputs.cache
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola.exe
+C:\Users\PD\source\repos\Elektronski dnevnik srednjih skola\Elektronski dnevnik srednjih skola\obj\Debug\Elektronski dnevnik srednjih skola.pdb
